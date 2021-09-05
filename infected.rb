@@ -1,0 +1,3 @@
+def infected(s)
+ 
+end
